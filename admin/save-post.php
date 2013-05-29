@@ -10,3 +10,17 @@
 *
 ****************************/
 
+// get post parameters
+///http://www.w3schools.com/php/php_post.asp
+//make it a string
+//http://www.w3schools.com/php/php_string.asp
+//save it as a file
+//do "\n" for a new line
+
+// <form action="save-post.php" method="POST">
+// $title;
+// $url;
+// $delimiter = '###TB###';
+// $stringToFile = $title .
+// $delimiter . $stringToFile . $url .
+// $delimiter . $stringToFile . $post-body . 
